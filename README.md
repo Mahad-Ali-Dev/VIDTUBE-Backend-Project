@@ -68,8 +68,5 @@
 
 ---
 
-## 📂 Folder Structure
 
-<details>
-<summary>Click to expand</summary>
 
